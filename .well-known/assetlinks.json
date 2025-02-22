@@ -1,0 +1,14 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.teromatero.jardinerogaucho",
+        "sha256_cert_fingerprints": [
+          "B1:2B:F6:BA:05:4A:51:78:75:4E:F5:0E:11:0B:54:D3:8E:07:55:E6:D0:03:BB:B3:82:EB:58:BE:8A:5C:96:A1",
+          "35:F7:E5:2D:0D:98:6E:48:D1:49:5B:E5:AD:4F:3A:E8:96:84:2A:2B:47:0F:AD:B9:45:7A:1C:D0:F7:E6:F7:91"
+        ]
+      }
+    }
+  ]
+  
